@@ -7,13 +7,9 @@ Be long reprise
 Without preferential
 You need defense
 To do own peace
+<<<<<<< HEAD
 Be long reprise
 
 Some one content
 
 Git amend test
-
-Without preferential
-You need defense
-To do own peace
-Be long reprise
